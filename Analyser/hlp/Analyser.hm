@@ -1,0 +1,18 @@
+ 
+// 命令(ID_* 和 IDM_*) 
+HIDM_ABOUTBOX                           0x10010
+ 
+// 提示(IDP_*) 
+ 
+// 资源(IDR_*) 
+HIDR_MAINFRAME                          0x20080
+ 
+// 对话框(IDD_*) 
+HIDD_ABOUTBOX                           0x20064
+HIDD_ANALYSER_DIALOG                    0x20066
+HIDD_PROGRESS                           0x20081
+HIDD_PROPPAGE_SINGLE_SUBJECT            0x20082
+HIDD_PROPPAGE_MULTI_SUBJECTS            0x20083
+HIDD_PROPPAGE_CONFIG                    0x20084
+ 
+// 框架控件(IDW_*) 
